@@ -10,7 +10,7 @@
 ## OVERVIEW OF THE PROJECT
 **Project:** E-COMMERCE WEBSITE REDESIGN (named as "vcart")
 
-![Screenshot](https://github.com/vigneshwaran046/CODTECH-Task1/blob/0fb2b12e377f982ac9ab9a54401163a0dd4f29cf/Screenshot%202024-09-17%20073327.png)
+![Screenshot](https://github.com/vigneshwaran046/CODTECH-Task2/blob/4a2af0dba0a97eb9c8dacb08cb49be1866d7135a/Screenshot%202024-09-17%20084503.png)
 <h1> E-commerce website</h1>
 <h3>Objective</h3>
 
@@ -38,4 +38,4 @@ Figma – For designing the UI and UX, creating wireframes, and prototyping the 
 5. **Scalability for Growth:** A flexible design allows for easy updates and feature additions, supporting the website’s evolution as the business expands.
 6. **Integration and Documentation:** Providing detailed design documentation facilitates a smoother development process and helps developers accurately implement the design.
 <h3>How to Run the Project</h3>
- To view and interact with the e-commerce design, open the Figma file (vigneshwaran portfolio.fig) and navigate through the pages to explore the various sections of the portfolio. Use the prototype mode ("MacBook Pro 14") to simulate user interactions and transitions. Ensure you have access to the necessary Figma permissions to view or edit the project as needed.
+ To view and interact with the e-commerce design, open the Figma file ("e commerce website(vcart).fig") and navigate through the pages to explore the various sections of the portfolio. Use the prototype mode ("MacBook Pro 14") to simulate user interactions and transitions. Ensure you have access to the necessary Figma permissions to view or edit the project as needed.
